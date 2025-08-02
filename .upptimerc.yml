@@ -13,14 +13,15 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://taleshape.com/images/logo.webp
+  favicon: https://taleshape.com/favicon.ico
   name: Status
   introTitle: "Uptime Monitoring"
-  introMessage: ""
+  # introMessage: ""
   navbar:
     - title: Status
       href: /
     - title: taleshape.com
       href: https://taleshape.com
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - jorinvo
