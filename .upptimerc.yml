@@ -13,9 +13,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://taleshape.com/images/logo.webp
-  name: taleshape.com
-  introTitle: "Uptime Status of taleshape.com"
-  introMessage: Monitoring if website is online
+  name: Status
+  introTitle: "Uptime Monitoring"
+  introMessage: ""
   navbar:
     - title: Status
       href: /
